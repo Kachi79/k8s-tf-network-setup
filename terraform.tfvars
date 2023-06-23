@@ -1,0 +1,7 @@
+ami = "ami-0874e384c068b9b67"
+name = "k8s-cluster"
+region = "eu-central-1"
+vpc_cidr = "172.31.0.0/16"
+key_name = "proj20_key"
+subnet_cidr = "172.31.0.0/24"
+instance_type = "t2.micro"
